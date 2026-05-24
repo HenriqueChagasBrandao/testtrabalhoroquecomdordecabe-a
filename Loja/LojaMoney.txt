@@ -1,2 +1,0 @@
-Quadrado == 100
-Esfera == 80
